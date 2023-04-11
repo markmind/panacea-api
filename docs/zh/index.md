@@ -13,7 +13,7 @@ hero:
     - theme: brand
       text: 快速开始
       link: /zh/panacea
-    - theme: alt
+    - theme: sponsor
       text: 演示
       link: https://www.ciiat.com/app/www
     - theme: alt

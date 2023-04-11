@@ -13,7 +13,7 @@ hero:
     - theme: brand
       text: Get Started
       link: /panacea
-    - theme: alt
+    - theme: sponsor
       text: Demo
       link: https://www.ciiat.com/app/www
     - theme: alt
