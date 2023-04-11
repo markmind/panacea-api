@@ -33,7 +33,7 @@
 
 ### Application
 
-Download application from the official website according to your needs [Desktop](https://www.ciiat.com/download) 或 [Mobile](https://www.ciiat.com/download)
+Download application from the official website according to your needs [Desktop](https://www.ciiat.com/download) or [Mobile](https://www.ciiat.com/download)
 
 ### Developer
 
