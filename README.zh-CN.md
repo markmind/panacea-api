@@ -3,7 +3,7 @@
 <h1 align="center">灵丹</h1>
 
 <h4 align="center">交易机器人实时状态管理</h4>
-<h4 align="center"><a href="https://www.ciiat.com/app/www"><strong>Demo</strong></a> | <a href="https://markmind.github.io/panacea-api/zh/"><strong>Docs</strong></a></h4>
+<h4 align="center"><a target="_blank" href="https://www.ciiat.com/app/www"><strong>网页演示</strong></a> | <a target="_blank"href="https://markmind.github.io/panacea-api/zh/"><strong>文档</strong></a> | <a target="_blank" href="https://www.ciiat.com/download/"><strong>桌面版</strong></a> | <a target="_blank" href="https://www.ciiat.com/download/"><strong>移动版</strong></h4>
 
 **随时随地管理您的交易机器人**
 
