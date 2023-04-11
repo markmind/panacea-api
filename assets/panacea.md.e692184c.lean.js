@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,N as o}from"./chunks/framework.5bba019c.js";const m=JSON.parse('{"title":"About Panacea","description":"","frontmatter":{},"headers":[],"relativePath":"panacea.md","lastUpdated":1681203250000}'),i={name:"panacea.md"},n=o("",9),r=[n];function l(c,d,u,p,s,h){return t(),e("div",null,r)}const f=a(i,[["render",l]]);export{m as __pageData,f as default};
