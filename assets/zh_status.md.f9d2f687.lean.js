@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,N as l}from"./chunks/framework.a3ffbf9f.js";const q=JSON.parse('{"title":"状态API","description":"","frontmatter":{},"headers":[],"relativePath":"zh/status.md","lastUpdated":1681201712000}'),o={name:"zh/status.md"},p=l("",20),t=[p];function e(F,c,r,y,D,i){return a(),n("div",null,t)}const C=s(o,[["render",e]]);export{q as __pageData,C as default};
