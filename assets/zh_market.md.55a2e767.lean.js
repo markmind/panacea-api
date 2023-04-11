@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as l}from"./chunks/framework.5bba019c.js";const q=JSON.parse('{"title":"市场API","description":"","frontmatter":{},"headers":[],"relativePath":"zh/market.md","lastUpdated":1681203975000}'),o={name:"zh/market.md"},p=l("",32),t=[p];function e(c,F,r,D,y,i){return n(),a("div",null,t)}const C=s(o,[["render",e]]);export{q as __pageData,C as default};
