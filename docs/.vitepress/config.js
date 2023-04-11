@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'Panacea',
   description: 'Trading Bot Real-time Status Manager',
   appearance: 'dark',
-  base: '/panacea/',
+  base: '/panacea-api/',
   lastUpdated: true,
   ignoreDeadLinks: true,
   cleanUrls: 'true',
