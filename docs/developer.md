@@ -10,7 +10,7 @@ Panacea provides a easy way to manage your real-time trading bot status. You can
 
 3. Download the Panacea application [Download Panacea]（ <https://www.ciiat.com/en/download> ）and add your trading bot for testing
 
-4. You can also directly use the [Web version of Lingdan]（ <https://www.ciiat.com/app/www> ）Directly and add your trading bot for testing
+4. You can also directly use the [Web version of Panacea]（ <https://www.ciiat.com/app/www> ）Directly  add your trading bot for testing
 
 5. Download the Panacea API code and place your relevant code in the 'extensions' directory
 
