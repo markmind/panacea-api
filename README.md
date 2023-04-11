@@ -3,7 +3,7 @@
 <h1 align="center">Panacea</h1>
 
 <h4 align="center">Trading Bot Real-time Status Manager</h4>
-<h4 align="center">[Demo](https://www.ciiat.com/app/www) | [Docs](https://markmind.github.io/panacea-api/)</h4>
+<h4 align="center"><a href="https://www.ciiat.com/app/www"><strong>Demo</strong></a> | <a href="https://markmind.github.io/panacea-api/"><strong>Docs</strong></a></h4>
 
 **Manage your trading bot anytime anywhere**
 
