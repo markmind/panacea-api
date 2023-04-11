@@ -3,6 +3,7 @@
 <h1 align="center">Panacea</h1>
 
 <h4 align="center">Trading Bot Real-time Status Manager</h4>
+<h4 align="center">[Demo](https://www.ciiat.com/app/www) | [Docs](https://markmind.github.io/panacea-api/)</h4>
 
 **Manage your trading bot anytime anywhere**
 
@@ -22,12 +23,12 @@
 
 ## Features
 
--Support multiple open source trading bot or commercial trading bot
--Support all platform(android,ios,web,windows,mac,linux)
--Support  multiple trading bot manage.
--Support real-time trading, long short trading.
--Support real-time modification of bot configuration.
--Support real-time modification of bot strategies.
+- Support multiple open source trading bot or commercial trading bot
+- Support all platform(android,ios,web,windows,mac,linux)
+- Support  multiple trading bot manage.
+- Support real-time trading, long short trading.
+- Support real-time modification of bot configuration.
+- Support real-time modification of bot strategies.
 
 ## Install
 

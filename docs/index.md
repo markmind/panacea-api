@@ -14,6 +14,9 @@ hero:
       text: Get Started
       link: /panacea
     - theme: alt
+      text: Demo
+      link: https://www.ciiat.com/app/www
+    - theme: alt
       text: View on GitHub
       link: https://github.com/markmind/panacea-api
 

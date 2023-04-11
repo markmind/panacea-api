@@ -14,6 +14,9 @@ hero:
       text: 快速开始
       link: /zh/panacea
     - theme: alt
+      text: 演示
+      link: https://www.ciiat.com/app/www
+    - theme: alt
       text: 在 GitHub 上查看
       link: https://github.com/markmind/panacea-api
 
