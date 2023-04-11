@@ -16,6 +16,9 @@ hero:
     - theme: sponsor
       text: Demo
       link: https://www.ciiat.com/app/www
+    - theme: sponsor
+      text: Download
+      link: https://www.ciiat.com/en/download
     - theme: alt
       text: View on GitHub
       link: https://github.com/markmind/panacea-api
