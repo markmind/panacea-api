@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as l,N as i}from"./chunks/framework.5bba019c.js";const m=JSON.parse('{"title":"关于灵丹","description":"","frontmatter":{},"headers":[],"relativePath":"zh/panacea.md","lastUpdated":1681204301000}'),o={name:"zh/panacea.md"},t=i("",9),c=[t];function r(d,n,s,_,p,h){return l(),e("div",null,c)}const f=a(o,[["render",r]]);export{m as __pageData,f as default};
