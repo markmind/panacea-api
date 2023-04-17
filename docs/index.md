@@ -6,7 +6,7 @@ hero:
   text: Trading Bot Real-time Status Manager
   tagline: Manage your trading bot anytime, anywhere
   image:
-    src: /images/screenshot.jpg
+    src: /images/web_top_en.png
     alt: Panacea        
 
   actions:

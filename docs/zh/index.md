@@ -6,7 +6,7 @@ hero:
   text: 交易机器人实时状态管理
   tagline: 随时随地管理您的交易机器人。
   image:
-    src: /images/screenshot_zh.jpg
+    src: /images/web_top.png
     alt: 灵丹        
 
   actions:
