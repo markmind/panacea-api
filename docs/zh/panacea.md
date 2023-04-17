@@ -4,6 +4,20 @@
 
 在将你的交易机器人适配至灵丹之前，您需要了解一些我们的工作方式。
 
+## 屏幕截图
+
+### 桌面版
+
+包括 Windows,Osx and Linux 客户端
+
+![桌面版](/images/desktop_cn.jpg)
+
+### 移动版
+
+包括 Android and Ios 客户端
+
+![移动版](/images/screenshot_mobile_zh.jpg)
+
 ## 页面架构
 
 根据您实现API的内容，灵丹将显示不同的页面内容

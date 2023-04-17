@@ -2,6 +2,20 @@
 
 Panacea expands the functions of your trading bot through a simple method, allowing you to control and observe your bot at any time and any place through desktop or mobile devices, through the status, operation, config, strategy, etc.  you can find out the ideal trading method more quickly and reasonably, greatly reducing the risk of quantitative trading and improving the profitability of trading.
 
+## Screenshot
+
+### Desktop
+
+includes Windows,Osx and Linux client
+
+![Desktop](/images/desktop.jpg)
+
+### Mobile
+
+includes Android and Ios client
+
+![Mobile](/images/screenshot_mobile.jpg)
+
 Before you can adapt your trading bot to Panacea, there are a few things you need to know about how we work.
 
 ## Page Architecture
